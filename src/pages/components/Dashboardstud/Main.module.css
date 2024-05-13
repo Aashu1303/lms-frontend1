@@ -1,0 +1,17 @@
+.sect{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 14px;
+    margin-left: 14px;
+    margin-top: 15px;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+}
+
+.left{
+    margin-left: 12px;
+}
